@@ -1,4 +1,4 @@
-﻿# Seja bem vindo !
+# Seja bem vindo !
 
 ## Olá, Sou  Cientista de dados [Flayson Santos](https://github.com/FlaysonSantos)
 **Github**  [Análise de dados com Python e Pandas](https://github.com/FlaysonSantos/Analise_dados_with_Python_Pandas)
@@ -13,10 +13,12 @@ Uma biblioteca Python de código aberto para análise de dados. Ela dá ao Pytho
  - Visualização de dados
  - Análise Exploratória
 
-## Base dos Dados
+## Base dos Dados e nosso Jupyter notebook 
 Aqui esta nossa base de dados em Excel usada para realizar o projeto.
 
  - Base de dados [AdventureWorks.xlsx](https://github.com/FlaysonSantos/Analise_dados_with_Python_Pandas/blob/main/Ecommerce/AdventureWorks.xlsx)
+ - jupyter notebook [Analise_Exploratoria_Ecommerce](https://github.com/FlaysonSantos/Analise_dados_with_Python_Pandas/blob/main/Ecommerce/Analise_Exploratoria_Ecommerce.ipynb)
+
 
 
 
