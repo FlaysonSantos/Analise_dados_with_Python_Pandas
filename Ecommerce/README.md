@@ -17,7 +17,7 @@ Uma biblioteca Python de código aberto para análise de dados. Ela dá ao Pytho
 Aqui esta nossa base de dados em Excel usada para realizar o projeto.
 
  - Base de dados [AdventureWorks.xlsx](https://github.com/FlaysonSantos/Analise_dados_with_Python_Pandas/blob/main/Ecommerce/AdventureWorks.xlsx)
- - jupyter notebook [Analise_Exploratoria_Ecommerce](https://github.com/FlaysonSantos/Analise_dados_with_Python_Pandas/blob/main/Ecommerce/Analise_Exploratoria_Ecommerce.ipynb)
+ - Jupyter notebook [Analise_Exploratoria_Ecommerce](https://github.com/FlaysonSantos/Analise_dados_with_Python_Pandas/blob/main/Ecommerce/Analise_Exploratoria_Ecommerce.ipynb)
 
 
 
