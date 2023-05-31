@@ -84,3 +84,7 @@ return "Ola Dev"
 if  __name__ == "__main__":
 
 app.run(debug=True)
+
+## Resultado 
+
+No final sera gerado um arquivo em csv com nome de "dados.csv" criado com dados do json
