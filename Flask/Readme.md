@@ -7,7 +7,7 @@ Para este projeto o desafio final envolve a entrega de uma API desenvolvida no f
 
 !pip install flask
 
-## Criando o dataset em json salvando na variave
+## Criando o dataset em json salvando na variavel "d"
 
 d = {
 
