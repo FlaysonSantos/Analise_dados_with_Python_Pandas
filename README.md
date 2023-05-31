@@ -2,9 +2,11 @@
 
 ## Olá, Sou  Cientista de dados [Flayson Santos](https://github.com/FlaysonSantos)
 
-## Analise dados com Python e Pandas 
+## Projetos Python
 
-Neste Projeto será apresentada a biblioteca Pandas, uma biblioteca Python de código aberto para análise de dados. Ela dá ao Python a capacidade de trabalhar com dados do tipo planilha, permitindo carregar, manipular e combinar dados rapidamente, entre outras funções.
+Esta pasta contem projetos com a utilização da linguagem Python para diversas finalidades e utilização de bibliotecas.
+Abaixo você pode escolher qual projeto você que utilizar e claro pode da fork no projeto que você queira utilizar.
+
 
 ## Projetos ##
 
