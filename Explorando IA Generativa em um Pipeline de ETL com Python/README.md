@@ -1,6 +1,5 @@
-# Explorando IA Generativa em um Pipeline de ETL com Python
 
-##  Título da Apresentação: "Construindo um Pipeline ETL com Inteligência Artificial e APIs"
+# Título da Apresentação: "Construindo um Pipeline ETL com Inteligência Artificial e APIs"
 
 Introdução:
 
